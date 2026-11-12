@@ -1,7 +1,0 @@
-ATIVIDADE AVALIATIVA 04 - CADASTRO DE LOJA
-
-Aluno: Ruan Silva Costa
-RGM: 47538368
-Curso: Engenharia de Software
-Instituicao: UNICID
-Linguagem: C
